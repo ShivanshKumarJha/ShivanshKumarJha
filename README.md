@@ -1,4 +1,4 @@
-p<h1 align="center">Hi <img src="./img/Hi.gif" width="40px">, I'm Shivansh Kumar Jha</h1>
+ap<h1 align="center">Hi <img src="./img/Hi.gif" width="40px">, I'm Shivansh Kumar Jha</h1>
 
 <h4 align="center">Crafting Frontend Intuition, 🧠 Orchestrating Backend Logic, and ⚙️ Mastering DSA</h4>
 
@@ -13,7 +13,7 @@ p<h1 align="center">Hi <img src="./img/Hi.gif" width="40px">, I'm Shivansh Kumar
 
 #### Connect with me:
 
-<p align="left">
+< align="left">
 <a href="https://twitter.com/shivansh2003_26" target="blank"><img align="center" src="./img/Social/twitter.svg" alt="shivansh2003_26" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shivansh-kumar-jha-4b3141234/" target="blank"><img align="center" src="./img/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivansh-kumar-jha-4b3141234/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/people/shivansh-kumar-jha/pfbid04g8hfhxzkvarq1bizqzvk7lkcmfkydqfzw8artojaaeucvjnk4zcce13lrnus8msl/?mibextid=zbwkwl" target="blank"><img align="center" src="./img/Social/facebook.svg" alt="https://www.facebook.com/people/shivansh-kumar-jha/pfbid04g8hfhxzkvarq1bizqzvk7lkcmfkydqfzw8artojaaeucvjnk4zcce13lrnus8msl/?mibextid=zbwkwl" height="30" width="40" /></a>
@@ -22,12 +22,10 @@ p<h1 align="center">Hi <img src="./img/Hi.gif" width="40px">, I'm Shivansh Kumar
 
 #### Coding profiles:
 
-<p align="left>
 <a href="https://www.leetcode.com/kumarjhashivansh" target="blank"><img align="center" src="./img/Social/leet-code.svg" alt="https://www.leetcode.com/kumarjhashivansh" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shiv26_2003" target="blank"><img align="center" src="./img/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/shiv26_2003" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shivansh2611" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="https://www.codechef.com/users/shivansh2611" height="30" width="40"/></a>
 <a href="https://codeforces.com/profile/shivansh2611" target="blank"><img align="center" src="./img/Social/codeforces.svg" alt="https://codeforces.com/profile/shivansh2611" height="30" width="40" /></a>
-</p>
 
 #### Languages and tools:
 
