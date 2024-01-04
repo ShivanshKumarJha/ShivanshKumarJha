@@ -1,4 +1,4 @@
-ap<h1 align="center">Hi <img src="./img/Hi.gif" width="40px">, I'm Shivansh Kumar Jha</h1>
+<h1 align="center">Hi <img src="./img/Hi.gif" width="40px">, I'm Shivansh Kumar Jha</h1>
 
 <h4 align="center">Crafting Frontend Intuition, 🧠 Orchestrating Backend Logic, and ⚙️ Mastering DSA</h4>
 
@@ -13,7 +13,6 @@ ap<h1 align="center">Hi <img src="./img/Hi.gif" width="40px">, I'm Shivansh Kuma
 
 #### Connect with me:
 
-< align="left">
 <a href="https://twitter.com/shivansh2003_26" target="blank"><img align="center" src="./img/Social/twitter.svg" alt="shivansh2003_26" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shivansh-kumar-jha-4b3141234/" target="blank"><img align="center" src="./img/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivansh-kumar-jha-4b3141234/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/people/shivansh-kumar-jha/pfbid04g8hfhxzkvarq1bizqzvk7lkcmfkydqfzw8artojaaeucvjnk4zcce13lrnus8msl/?mibextid=zbwkwl" target="blank"><img align="center" src="./img/Social/facebook.svg" alt="https://www.facebook.com/people/shivansh-kumar-jha/pfbid04g8hfhxzkvarq1bizqzvk7lkcmfkydqfzw8artojaaeucvjnk4zcce13lrnus8msl/?mibextid=zbwkwl" height="30" width="40" /></a>
