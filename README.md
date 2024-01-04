@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="./img/Hi.gif" width="40px">, I'm Shivansh Kumar Jha</h1>
 
-<h4 align="center">Crafting Frontend Intuition, 🧠 Orchestrating Backend Logic, and ⚙️ Mastering DSA</h4>
+<h3 align="center">Crafting Frontend Intuition, 🧠 Orchestrating Backend Logic, and ⚙️ Mastering DSA</h3>
 
 <img src="./img/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://theshivanshfolio.netlify.app/"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
