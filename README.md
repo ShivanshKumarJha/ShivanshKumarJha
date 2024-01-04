@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="./img/Hi.gif" width="40px">, I'm Shivansh Kumar Jha</h1>
 
-<h3 align="center">Crafting Frontend Intuition, 🧠 Orchestrating Backend Logic, and ⚙️ Mastering DSA</h3>
+<h4 align="center">Crafting Frontend Intuition, 🧠 Orchestrating Backend Logic, and ⚙️ Mastering DSA</h4>
 
-<img src="./img/life_balance.gif" alt="side Image" align="right" width="250" height="auto" />
+<img src="./img/life_balance.gif" alt="side Image" align="right" width="220" height="auto" />
 <a href="https://theshivanshfolio.netlify.app/"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
   - 🔭 I’m currently working on the [Shopping App](https://github.com/ShivanshKumarJha/Shopping-App) 🛒
@@ -46,13 +46,17 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./img/Database/mysql.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
+
 ### 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=ShivanshKumarJha&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShivanshKumarJha&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshKumarJha&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+<a href="https://github.com/ShivanshKumarJha/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shivanshkumarjha&theme=radical" />
+</a>
+<a href="https://github.com/ShivanshKumarJha/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshkumarjha&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
+<a href="https://github.com/ShivanshKumarJha/github-readme-streak-stats">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivanshKumarJha&theme=radical&hide_border=false">
+</a>
+<br></br>
 
 [![](https://visitcount.itsvg.in/api?id=ShivanshKumarJha&icon=0&color=6)](https://visitcount.itsvg.in)
-
-
