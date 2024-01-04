@@ -48,19 +48,21 @@
 
 
 ### 📊 GitHub Stats:
-<section>
+
 <a href="https://github.com/ShivanshKumarJha/github-readme-stats">
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=shivanshkumarjha&theme=radical" />
 </a>
+<br></br>
+
 <a href="https://github.com/ShivanshKumarJha/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshkumarjha&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
-</section>
-<section>
+<br></br>
+
 <a href="https://github.com/ShivanshKumarJha/github-readme-streak-stats">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivanshKumarJha&theme=radical&hide_border=false">
 </a>
-</section>
+
 <br></br>
 
 [![](https://visitcount.itsvg.in/api?id=ShivanshKumarJha&icon=0&color=6)](https://visitcount.itsvg.in)
