@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="./img/Hi.gif" width="40px">, I'm Shivansh Kumar Jha</h1>
+p<h1 align="center">Hi <img src="./img/Hi.gif" width="40px">, I'm Shivansh Kumar Jha</h1>
+
 <h4 align="center">Crafting Frontend Intuition, 🧠 Orchestrating Backend Logic, and ⚙️ Mastering DSA</h4>
 
 <img src="./img/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
@@ -22,7 +23,7 @@
 #### Coding profiles:
 
 <p align="left>
-<a href="https://leetcode.com/kumarjhashivansh/" target="blank"><img align="center" src="./img/Social/leet-code.svg" alt="https://leetcode.com/kumarjhashivansh/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kumarjhashivansh" target="blank"><img align="center" src="./img/Social/leet-code.svg" alt="https://www.leetcode.com/kumarjhashivansh" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shiv26_2003" target="blank"><img align="center" src="./img/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/shiv26_2003" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shivansh2611" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="https://www.codechef.com/users/shivansh2611" height="30" width="40"/></a>
 <a href="https://codeforces.com/profile/shivansh2611" target="blank"><img align="center" src="./img/Social/codeforces.svg" alt="https://codeforces.com/profile/shivansh2611" height="30" width="40" /></a>
@@ -47,8 +48,8 @@
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=ShivanshKumarJha&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShivanshKumarJha&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=ShivanshKumarJha&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShivanshKumarJha&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshKumarJha&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=ShivanshKumarJha&icon=0&color=6)](https://visitcount.itsvg.in)
