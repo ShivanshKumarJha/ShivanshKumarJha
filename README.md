@@ -6,7 +6,7 @@
 <a href="https://theshivanshfolio.netlify.app/"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
   - 🔭 I’m currently working on the [Shopping App](https://github.com/ShivanshKumarJha/Shopping-App) 🛒
-  - ⚡ I’m looking to collaborate on [codeial](https://github.com/ShivanshKumarJha/codeial) - Social engine for coders 👩‍💻
+  - ⚡ I’m looking to collaborate on [codeial](https://codeial-social.onrender.com/) - Social engine for coders 👩‍💻
   - 🌱 I’m currently learning React.js ⚛️ 
   - 👉 Know about me more [here](https://theshivanshfolio.netlify.app/)
   - 💬 Ask me about musics 🎧 and movies 📽️
