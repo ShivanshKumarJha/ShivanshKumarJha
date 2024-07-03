@@ -9,13 +9,7 @@
 - ⚡ I’m looking to collaborate on [Maharaja - The Royal Resort](https://github.com/ShivanshKumarJha/maharaja-the-royal-resort) 🏨 with Admin Dashboard 🔗[live](https://maharaja-the-royal-resort.vercel.app/login)
 - 🌱 I’m currently learning React.js and Next.js
 - 👉 Know about me more [here](https://theshivanshfolio.netlify.app/)
-- # 💬 Ask me about musics 🎧 and movies 📽️
-  - 🔭 I’m currently working on the [cakeNbakes](https://github.com/ShivanshKumarJha/cakes-shopping) 🎂 with Admin Dashboard
-  - ⚡ I’m looking to collaborate on [Maharaja - The Royal Resort](https://github.com/ShivanshKumarJha/maharaja-the-royal-resort) 🏨 with Admin Dashboard
-  - 🌱 I’m currently learning React.js ⚛️ and Next.js
-  - 👉 Know about me more [here](https://theshivanshfolio.netlify.app/)
-  - 💬 Ask me about musics 🎧 and movies 📽️
-    > > > > > > > origin/master
+- 💬 Ask me about musics 🎧 and movies 📽️
 
 #### Connect with me:
 
