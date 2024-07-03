@@ -5,8 +5,8 @@
 <img src="./img/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://theshivanshfolio.netlify.app/"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
-  - 🔭 I’m currently working on the [cakeNbakes](https://github.com/ShivanshKumarJha/cakes-shopping) 🎂
-  - ⚡ I’m looking to collaborate on [Maharaja - The Royal Resort](https://github.com/ShivanshKumarJha/maharaja-the-royal-resort) - with admin dashboard 🏨
+  - 🔭 I’m currently working on the [cakeNbakes](https://github.com/ShivanshKumarJha/cakes-shopping) 🎂 with Admin Dashboard
+  - ⚡ I’m looking to collaborate on [Maharaja - The Royal Resort](https://github.com/ShivanshKumarJha/maharaja-the-royal-resort) 🏨 with Admin Dashboard 
   - 🌱 I’m currently learning React.js ⚛️ and Next.js 
   - 👉 Know about me more [here](https://theshivanshfolio.netlify.app/)
   - 💬 Ask me about musics 🎧 and movies 📽️
@@ -46,7 +46,6 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./img/Database/mysql.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
-
 ### 📊 GitHub Stats:
 
 <a href="https://github.com/ShivanshKumarJha/github-readme-stats">
@@ -63,6 +62,6 @@
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivanshKumarJha&theme=radical&hide_border=false">
 </a>
 
-<br></br>
+`<br></br>`
 
 [![](https://visitcount.itsvg.in/api?id=ShivanshKumarJha&icon=0&color=6)](https://visitcount.itsvg.in)
