@@ -6,7 +6,7 @@
 <a href="https://theshivanshfolio.netlify.app/"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 - 🔭 I’m currently working on the [cakeNbakes - Cakes World](https://github.com/ShivanshKumarJha/cakes-shopping) 🎂 with Admin Dashboard 🔗[live](https://cake-n-bakes-shopping.onrender.com/)
-- ⚡ I’m looking to collaborate on [Maharaja - The Royal Resort](https://github.com/ShivanshKumarJha/maharaja-the-royal-resort) 🏨 with Admin Dashboard 🔗[live](https://maharaja-the-royal-resort.vercel.app/login)
+- ⚡ I’m looking to collaborate on [Maharaja - The Royal Resort](https://github.com/ShivanshKumarJha/maharaja-the-royal-resort) 🏨 with Admin Dashboard 🔗[live](https://maharaja-the-royal-resort.vercel.app)
 - 🌱 I’m currently learning React.js and Next.js
 - 👉 Know about me more [here](https://theshivanshfolio.netlify.app/)
 - 💬 Ask me about musics 🎧 and movies 📽️
