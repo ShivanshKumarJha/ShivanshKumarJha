@@ -62,6 +62,6 @@
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivanshKumarJha&theme=radical&hide_border=false">
 </a>
 
-`<br></br>`
+<br></br>
 
 [![](https://visitcount.itsvg.in/api?id=ShivanshKumarJha&icon=0&color=6)](https://visitcount.itsvg.in)
