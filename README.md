@@ -5,9 +5,8 @@
 <img src="./img/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://theshivanshfolio.netlify.app/"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
-- 🔭 I’m currently working on the [cakeNbakes - Cakes World](https://github.com/ShivanshKumarJha/cakes-shopping) 🎂 with Admin Dashboard 🔗[live](https://cake-n-bakes-shopping.onrender.com/)
-- ⚡ I’m looking to collaborate on [Maharaja - The Royal Resort](https://github.com/ShivanshKumarJha/maharaja-the-royal-resort) 🏨 with Admin Dashboard 🔗[live](https://maharaja-the-royal-resort.vercel.app)
-- 🌱 I’m currently learning React.js and Next.js
+- 🔭 I’m currently working on the [Maharaja - The Royal Resort](https://github.com/ShivanshKumarJha/maharaja-the-royal-resort) 🏨 with Admin Dashboard 🔗[live](https://maharaja-the-royal-resort.vercel.app) and looking to collaborate on it ⚡
+- 🌱 I’m currently learning Next.js and Docker
 - 👉 Know about me more [here](https://theshivanshfolio.netlify.app/)
 - 💬 Ask me about musics 🎧 and movies 📽️
 
@@ -41,9 +40,11 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="./img/Database/mongodb.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./img/FrontendDevelopment/reactjs.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="./img/FrontendDevelopment//redux.svg" alt="redux" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./img/BackendDevelopment/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./img/Other/git.svg" alt="git" width="40" height="40"/> </a>  
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./img/Database/mysql.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./img/BackendDevelopment//docker.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
 ### 📊 GitHub Stats:
