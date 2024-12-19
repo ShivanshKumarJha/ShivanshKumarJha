@@ -6,7 +6,7 @@
 <a href="https://theshivanshfolio.netlify.app/"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 - 🔭 I’m currently working on the [Maharaja - The Royal Resort](https://github.com/ShivanshKumarJha/maharaja-the-royal-resort) 🏨 with Admin Dashboard 🔗[live](https://maharaja-the-royal-resort.vercel.app) and looking to collaborate on it ⚡
-- 🌱 I’m currently learning Next.js and Docker
+- 🌱 I’m currently learning Python
 - 👉 Know about me more [here](https://theshivanshfolio.netlify.app/)
 - 💬 Ask me about musics 🎧 and movies 📽️
 
@@ -33,9 +33,10 @@
 <p align="left">  
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="./img/ProgrammingLanguages/c.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="./img/ProgrammingLanguages/cpp.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./img/ProgrammingLanguages/javascript.svg" alt="javascript" width="40" height="40"/> </a>  
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="./img/ProgrammingLanguages/python.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./img/FrontendDevelopment/html.svg" alt="html5" width="40" height="40"/> </a>   </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./img/FrontendDevelopment/css.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./img/ProgrammingLanguages/javascript.svg" alt="javascript" width="40" height="40"/> </a>  
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="./img/FrontendDevelopment/sass.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="./img/Database/mongodb.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express" width="40" height="40"/> </a> 
@@ -49,20 +50,19 @@
 
 ### 📊 GitHub Stats:
 
-<a href="https://github-readme-stats.vercel.app/api?username=shivanshkumarjha&theme=radical">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shivanshkumarjha&theme=radical" />
+<a href="https://github-readme-stats.vercel.app/api?username=shivanshkumarjha&theme=dark">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shivanshkumarjha&theme=dark" />
 </a>
-<br></br>
+<br>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshkumarjha&layout=compact&langs_count=8&card_width=320&theme=radical">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshkumarjha&layout=compact&langs_count=8&card_width=320&theme=radical" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshkumarjha&layout=compact&langs_count=8&card_width=320&theme=dark">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshkumarjha&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
-<br></br>
+<br>
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=ShivanshKumarJha&theme=radical&hide_border=false">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivanshKumarJha&theme=radical&hide_border=false">
+<a href="https://streak-stats.demolab.com/?user=ShivanshKumarJha&theme=dark&hide_border=false">
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=ShivanshKumarJha&theme=dark&hide_border=false">
 </a>
-
-`<br></br>`
+<br>
 
 [![](https://visitcount.itsvg.in/api?id=ShivanshKumarJha&icon=0&color=6)](https://visitcount.itsvg.in)
