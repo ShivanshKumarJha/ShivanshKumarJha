@@ -49,20 +49,20 @@
 
 ### 📊 GitHub Stats:
 
-<a href="https://github.com/ShivanshKumarJha/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=shivanshkumarjha&theme=radical">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shivanshkumarjha&theme=radical" />
 </a>
 <br></br>
 
-<a href="https://github.com/ShivanshKumarJha/convoychat">
+<a href="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshkumarjha&layout=compact&langs_count=8&card_width=320&theme=radical">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshkumarjha&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 <br></br>
 
-<a href="https://github.com/ShivanshKumarJha/github-readme-streak-stats">
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=ShivanshKumarJha&theme=radical&hide_border=false">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivanshKumarJha&theme=radical&hide_border=false">
 </a>
 
-<br></br>
+`<br></br>`
 
 [![](https://visitcount.itsvg.in/api?id=ShivanshKumarJha&icon=0&color=6)](https://visitcount.itsvg.in)
