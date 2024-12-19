@@ -53,16 +53,16 @@
 <a href="https://github-readme-stats.vercel.app/api?username=shivanshkumarjha&theme=dark">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shivanshkumarjha&theme=dark" />
 </a>
-<br>
+<br><br>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshkumarjha&layout=compact&langs_count=8&card_width=320&theme=dark">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshkumarjha&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
-<br>
+<br><br>
 
 <a href="https://streak-stats.demolab.com/?user=ShivanshKumarJha&theme=dark&hide_border=false">
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=ShivanshKumarJha&theme=dark&hide_border=false">
 </a>
-<br>
+<br><br>
 
 [![](https://visitcount.itsvg.in/api?id=ShivanshKumarJha&icon=0&color=6)](https://visitcount.itsvg.in)
