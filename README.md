@@ -6,7 +6,7 @@
 <a href="https://theshivanshfolio.netlify.app/"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 - 🔭 I’m currently working on the [Maharaja - The Royal Resort](https://github.com/ShivanshKumarJha/maharaja-the-royal-resort) 🏨 with Admin Dashboard 🔗[live](https://maharaja-the-royal-resort.vercel.app) and looking to collaborate on it ⚡
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Machine Learning
 - 👉 Know about me more [here](https://theshivanshfolio.netlify.app/)
 - 💬 Ask me about musics 🎧 and movies 📽️
 
