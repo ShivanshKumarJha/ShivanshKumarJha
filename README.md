@@ -47,6 +47,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./img/Database/mysql.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./img/BackendDevelopment//docker.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
+<br/>
 
 <div>
   <h2 align='center'>Leetcode Info</h2>
