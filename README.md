@@ -5,7 +5,7 @@
 <img src="./img/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://theshivanshfolio.netlify.app/"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
-- 🔭 I’m currently working on the [Maharaja - The Royal Resort](https://github.com/ShivanshKumarJha/maharaja-the-royal-resort) 🏨 with Admin Dashboard 🔗[live](https://maharaja-the-royal-resort.vercel.app) and looking to collaborate on it ⚡
+- 🔭 I’m currently working on the [SaleSmart](https://github.com/ShivanshKumarJha/SaleSmart) 🏨 with Admin Dashboard 🔗[live](https://sale-smart.vercel.app/) and looking to collaborate on it ⚡
 - 🌱 I’m currently learning Python and Machine Learning
 - 👉 Know about me more [here](https://theshivanshfolio.netlify.app/)
 - 💬 Ask me about musics 🎧 and movies 📽️
@@ -19,7 +19,7 @@
 <a href="https://www.instagram.com/shivanshkumar.jha/" target="blank"><img align="center" src="./img/Social/instagram.svg" alt="https://www.instagram.com/shivanshkumar.jha/" height="30" width="40" /></a>
 <a href="www.kumarjhashivansh@gmail.com" target="blank"><img align="center" src="./img/Social/google.svg" alt="www.kumarjhashivansh@gmail.com" height="30" width="40" /></a>
 
-#### Coding profiles:
+### Coding profiles:
 
 <p align="left">
 <a href="https://www.leetcode.com/kumarjhashivansh" target="blank"><img align="center" src="./img/Social/leet-code.svg" alt="https://www.leetcode.com/kumarjhashivansh" height="30" width="40" /></a>
@@ -48,7 +48,18 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./img/BackendDevelopment//docker.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
-### 📊 GitHub Stats:
+<hr>
+
+<div>
+  <h2 align='center'>Leetcode Info</h2>
+  <p align="center">
+    <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/kumarjhashivansh?theme=dark&font=Nunito&ext=heatmap" />  
+  </p>
+</div>
+
+<br/>
+
+<h2 align='center'>GitHub Stats</h2>
 
 <a href="https://github-readme-stats.vercel.app/api?username=shivanshkumarjha&theme=dark">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shivanshkumarjha&theme=dark" />
@@ -63,6 +74,7 @@
 <a href="https://streak-stats.demolab.com/?user=ShivanshKumarJha&theme=dark&hide_border=false">
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=ShivanshKumarJha&theme=dark&hide_border=false">
 </a>
-<br><br>
+
+<br/>
 
 [![](https://visitcount.itsvg.in/api?id=ShivanshKumarJha&icon=0&color=6)](https://visitcount.itsvg.in)
