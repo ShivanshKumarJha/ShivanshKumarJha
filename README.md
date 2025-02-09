@@ -3,9 +3,9 @@
 <h3 align="center">Crafting Frontend Intuition, 🧠 Orchestrating Backend Logic, and ⚙️ Mastering DSA</h3>
 
 <img src="./img/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://theshivanshfolio.netlify.app/"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
-- 🔭 I’m currently working on the [SaleSmart](https://github.com/ShivanshKumarJha/SaleSmart) 🏨 with Admin Dashboard 🔗[live](https://sale-smart.vercel.app/) and looking to collaborate on it ⚡
+
+- 🔭 I’m currently working on the [SaleSmart](https://github.com/ShivanshKumarJha/SaleSmart) 🏨 with Admin Dashboard 🔗[live](https://sale-smart.vercel.app/) 
 - 🌱 I’m currently learning Python and Machine Learning
 - 👉 Know about me more [here](https://theshivanshfolio.netlify.app/)
 - 💬 Ask me about musics 🎧 and movies 📽️
