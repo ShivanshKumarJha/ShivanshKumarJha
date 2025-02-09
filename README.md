@@ -10,7 +10,7 @@
 - 👉 Know about me more [here](https://theshivanshfolio.netlify.app/)
 - 💬 Ask me about musics 🎧 and movies 📽️
 
-#### Connect with me:
+### Connect with me:
 
 <p align="left">
 <a href="https://twitter.com/shivansh2003_26" target="blank"><img align="center" src="./img/Social/twitter.svg" alt="shivansh2003_26" height="30" width="40" /></a>
@@ -28,7 +28,7 @@
 <a href="https://codeforces.com/profile/shivansh2611" target="blank"><img align="center" src="./img/Social/codeforces.svg" alt="https://codeforces.com/profile/shivansh2611" height="30" width="40" /></a>
 </p>
 
-#### Languages and tools:
+### Languages and tools:
 
 <p align="left">  
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="./img/ProgrammingLanguages/c.svg" alt="c" width="40" height="40"/> </a> 
@@ -50,7 +50,7 @@
 <br/>
 
 <div>
-  <h2 align='center'>Leetcode Info</h2>
+  <h1 align='center'>Leetcode Info</h1>
   <p align="center">
     <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/kumarjhashivansh?theme=dark&font=Nunito&ext=heatmap" />  
   </p>
@@ -58,7 +58,7 @@
 
 <br/>
 
-<h2 align='center'>GitHub Stats</h2>
+<h1 align='center'>GitHub Stats</h1>
 
 <a href="https://github-readme-stats.vercel.app/api?username=shivanshkumarjha&theme=dark">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shivanshkumarjha&theme=dark" />
