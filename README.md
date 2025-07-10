@@ -4,8 +4,7 @@
 
 <img src="./img/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
-
-- 🔭 I’m currently working on the [SaleSmart](https://github.com/ShivanshKumarJha/SaleSmart) 🏨 with Admin Dashboard 🔗[live](https://sale-smart.vercel.app/) 
+- 🔭 I’m currently working on the [SaleSmart](https://github.com/ShivanshKumarJha/SaleSmart) 🏨 with Admin Dashboard 🔗[live](https://sale-smart.vercel.app/)
 - 🌱 I’m currently learning Python and Machine Learning
 - 👉 Know about me more [here](https://theshivanshfolio.netlify.app/)
 - 💬 Ask me about musics 🎧 and movies 📽️
