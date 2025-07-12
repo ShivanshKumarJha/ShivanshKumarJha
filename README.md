@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on the [SaleSmart](https://github.com/ShivanshKumarJha/SaleSmart) 🏨 with Admin Dashboard 🔗[live](https://sale-smart.vercel.app/)
 - 🌱 I’m currently learning Python and Machine Learning
-- 👉 Know about me more [here](https://theshivanshfolio.netlify.app/)
+- 👉 Know about me more [here](https://theshivanshfolio.vercel.app/)
 - 💬 Ask me about musics 🎧 and movies 📽️
 
 ### Connect with me:
