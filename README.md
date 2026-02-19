@@ -2,7 +2,7 @@
 
 <img src="./img/life_balance.gif" alt="side Image" align="right" width="200" height=auto />
 
-- 🔭 I’m currently working on the 🧑‍💻 [Codeial-Flutter Version](https://sale-smart.vercel.app/)
+- 🔭 I’m currently working on the 🧑‍💻 [Codeial-Flutter Version](https://github.com/ShivanshKumarJha/codeial_flutter)
 - 🌱 I’m currently learning Flutter and DevOps
 - 👉 Know about me more [here](https://theshivanshfolio.vercel.app/)
 - 💬 Ask me about musics 🎧 and movies 📽️
