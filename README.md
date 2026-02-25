@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on the 🧑‍💻 [Codeial-Flutter Version](https://github.com/ShivanshKumarJha/codeial_flutter)
 - 🌱 I’m currently learning Flutter and DevOps
 - 👉 Know about me more [here](https://theshivanshfolio.vercel.app/)
-- 💬 Ask me about musics 🎧 and movies 
+- 💬 Ask me about musics 🎧 and movies
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ShivanshKumarJha&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="ShivanshKumarJha" style="padding-right:20px;" />
@@ -97,8 +97,8 @@
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github-contributor-stats.vercel.app/api?username=ShivanshKumarJha&limit=2&theme=dark&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=ShivanshKumarJha&limit=2&theme=dark&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        <a href="https://github.com/ShivanshKumarJha">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=ShivanshKumarJha&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -112,4 +112,3 @@
 </div>
 
 <br/>
-
