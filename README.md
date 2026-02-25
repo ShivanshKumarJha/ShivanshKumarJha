@@ -5,7 +5,11 @@
 - 🔭 I’m currently working on the 🧑‍💻 [Codeial-Flutter Version](https://github.com/ShivanshKumarJha/codeial_flutter)
 - 🌱 I’m currently learning Flutter and DevOps
 - 👉 Know about me more [here](https://theshivanshfolio.vercel.app/)
-- 💬 Ask me about musics 🎧 and movies 📽️
+- 💬 Ask me about musics 🎧 and movies 
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ShivanshKumarJha&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="ShivanshKumarJha" style="padding-right:20px;" />
+</p>
 
 ### Connect with me:
 
@@ -48,31 +52,64 @@
 </p>
 <br/>
 
-<div>
-  <h1 align='center'>Leetcode Info</h1>
-  <p align="center">
-    <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/kumarjhashivansh?theme=dark&font=Nunito&ext=heatmap" />  
-  </p>
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/ShivanshKumarJha">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=ShivanshKumarJha&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=ShivanshKumarJha&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=ShivanshKumarJha&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<br />
+
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/ShivanshKumarJha">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=ShivanshKumarJha&count_private=true&show_icons=true&theme=dark&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/ShivanshKumarJha">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=ShivanshKumarJha&theme=dark&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/ShivanshKumarJha/codeial_flutter">
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=ShivanshKumarJha&repo=codeial_flutter&theme=dark&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/ShivanshKumarJha">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=ShivanshKumarJha&limit=2&theme=dark&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivanshKumarJha&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 <br/>
 
-<h1 align='center'>GitHub Stats</h1>
-
-<a href="https://github-readme-stats.vercel.app/api?username=shivanshkumarjha&theme=dark">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shivanshkumarjha&theme=dark" />
-</a>
-<br><br>
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshkumarjha&layout=compact&langs_count=8&card_width=320&theme=dark">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshkumarjha&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
-<br><br>
-
-<a href="https://streak-stats.demolab.com/?user=ShivanshKumarJha&theme=dark&hide_border=false">
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=ShivanshKumarJha&theme=dark&hide_border=false">
-</a>
-
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=ShivanshKumarJha&icon=0&color=6)](https://visitcount.itsvg.in)
